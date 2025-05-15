@@ -4,4 +4,4 @@
 
 O diagrama abaixo representa a estrutura de classes do sistema:
 
-![Diagrama UML do Sistema de Concessionária](img/uml.png)
+![Diagrama UML do Sistema de Concessionária](uml-poo.jpeg)
